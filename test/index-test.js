@@ -1,4 +1,4 @@
-describe('index', function() {
+  describe('index', function() {
   describe('cook functions', function() {
     before(function() {
       let useFakeTimers = null
